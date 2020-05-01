@@ -1,0 +1,16 @@
+Market,Province,Category,percMarketed,Lat,Lon
+D.G Khan,Punjab,Local,1.52,30.045869,70.640289
+Multan,Punjab,Local,2.27,30.181459,71.492157
+Sargodha,Punjab,Local,3.03,32.082466,72.669128
+Quetta,Balochistan,Local,3.79,30.18327,66.996452
+Kohat,KP,Local,4.55,33.58,71.45
+Faisalabad,Punjab,Local,5.3,31.418715,73.079109
+Haiderabad,Sindh,Local,6.06,25.3924198,68.3736572
+Peshawar,KP,Local,6.82,34.025917,71.560135
+Gujranwala,Punjab,Local,7.58,32.166351,74.1959
+Rawalpindi,Punjab,Local,9.09,33.626057,73.071442
+Islamabad,ICT,Local,12.12,33.738045,73.084488
+Karachi,Sindh,Local,16.18,24.926294,67.022095
+Lahore,Punjab,Local,17.21,31.582045,74.329376
+Other Markets,,Local-other,5.87,,
+"Exports to Srilanka, Oman and UAE",Int,International,0.13,32.5,61.7
